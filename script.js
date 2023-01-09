@@ -172,11 +172,20 @@
 
 // !////////// таблиця множення
 
-const out = document.querySelector('.out')
+// const out = document.querySelector('.out')
 
-for (let i = 1; i < 10; i += 1) {
-  for (let j = 1; j < 10; j += 1){
-    out.innerHTML += `${i} * ${j} = ${i * j}<br>`
-  }
-  out.innerHTML += '<hr>';
- }
+// for (let i = 1; i < 10; i += 1) {
+//   for (let j = 1; j < 10; j += 1){
+//     out.innerHTML += `${i} * ${j} = ${i * j}<br>`
+//   }
+//   out.innerHTML += '<hr>';
+//  }
+
+
+// const myArray = [];
+// let i = 5;
+// while (i >= 0) {
+//     ;
+//     myArray.push(i);
+//     i -= 1;
+// }
